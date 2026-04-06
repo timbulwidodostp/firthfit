@@ -1,0 +1,7 @@
+D 'firthfit': Compute measures of fit for Firth's logit models Use firthfit With STATA 19
+D
+F firthfit.ado
+F firthfit.sthlp
+F firthlogit.ado
+F firthlogit_ll.ado
+F firthlogit.sthlp
