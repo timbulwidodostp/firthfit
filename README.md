@@ -1,6 +1,8 @@
 # firthfit
 Compute measures of fit for Firth's logit models Use firthfit With STATA 19
 
+https://www.youtube.com/watch?v=nEBbE_c-AcY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
